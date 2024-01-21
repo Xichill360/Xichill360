@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Xichill360
+- 👀 I’m interested in soft modding
+- 🌱 I’m currently learning python
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: Batteries dont like high electric current! They might expload!
